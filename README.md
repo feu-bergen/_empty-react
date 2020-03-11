@@ -1,19 +1,24 @@
 # Task
 
+Complete the task steps in the section below.
 
-
-**Note:** Styles are provided for you in master.css. Look in the file to find the approriate class names to use on your HTML elements.
-
-### Example
+## Example
 
 [The example is here](https://link).
 
-## Task
+# Project Setup
 
-Clone or download this repository onto your computer.  You will start out in the "master" branch which contains an empty project.
+**Fork** this repository into your account and then **clone** that repositroy onto your machine.
 
-Try to recreate the website above.  Firstly, try to create it without any help.  If you are unsure of what to do, you can follow the steps below.  If the steps don't help, checkout out the "answer" branch from this repository.  The answer branch contains a working example.
+Once cloned on your machine:
+1. Go to the folder in your **terminal/command line** and run `npm install`.
+2. **Open** the project in your **code editor**.
+3. To **run the website,** go to the folder in your **terminal/command line** and run `npm start`.
 
-## Steps
+
+**Note:** Styles are provided for you in src/index.css. Look in the file to find the approriate class names to use on your HTML elements.
+
+
+## Task Steps
 
 1. 
